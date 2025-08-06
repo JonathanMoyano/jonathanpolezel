@@ -60,11 +60,11 @@ Minha trajetória única inclui **4 anos de liderança como bombeiro civil**, o 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=jonathanpolezel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    alt="Estatísticas do GitHub de JonathanPolezel"
+    src="https://github-readme-stats.vercel.app/api?username=jonathanmoyano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    alt="Estatísticas do GitHub de Jonathanmoyano"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanpolezel&layout=compact&langs_count=7&theme=tokyonight" 
-    alt="Top Linguagens de JonathanPolezel"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmoyano&layout=compact&langs_count=7&theme=tokyonight" 
+    alt="Top Linguagens de Jonathanmoyano"
   />
 </p>
