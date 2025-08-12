@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Olá, eu sou o Jonathan Souza Moyano 👋</h1>
-<h3 align="center">Analista de Infraestrutura | Especialista em Suporte N2 | Apaixonado por DevOps & Cloud</h3>
+<h3 align="center">Analista de Infraestrutura | Especialista em Suporte N2 </h3>
 
 <p align="center">
 
@@ -30,7 +30,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Profissional de TI com mais de **17 anos de experiência**, combinando uma sólida base técnica em manutenção de hardware, suporte N1/N2 e infraestrutura com formação superior em **Análise e Desenvolvimento de Sistemas**. Atualmente, estou aprofundando meus conhecimentos em uma **Pós-Graduação em DevOps & Arquitetura Cloud na FIAP**.
+Profissional de TI com mais de **10 anos de experiência**, combinando uma sólida base técnica em manutenção de hardware, suporte N1/N2 e infraestrutura com formação superior em **Análise e Desenvolvimento de Sistemas**.
 
 Minha trajetória única inclui **4 anos de liderança como bombeiro civil**, o que me proporcionou uma capacidade ímpar de resolver problemas complexos e gerenciar crises com precisão e calma. Busco constantemente por oportunidades desafiadoras para aplicar e expandir meus conhecimentos, contribuindo com expertise técnica e liderança.
 
