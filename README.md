@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Olá, eu sou o Jonathan Souza Moyano 👋</h1>
-<h3 align="center">Analista de Infraestrutura | Especialista em Suporte N2 </h3>
+<h3 align="center">Analista de Infraestrutura | Suporte N2/N3 </h3>
 
 <p align="center">
 
